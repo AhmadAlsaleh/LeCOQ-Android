@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B1372A</color>
+    <color name="colorPrimaryDark">#B1372A</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="white_hide">#beffffff</color>
+
+
+    <color name="black_hide">#8c000000</color>
+    <color name="black_hide2">#d7000000</color>
+    <color name="goldLike">#ffc400</color>
+
+
+</resources>
